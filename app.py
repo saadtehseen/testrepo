@@ -3,3 +3,4 @@ def func():
     return x
 
 func()
+dbutils.notebook.exit("This is the value we want")
